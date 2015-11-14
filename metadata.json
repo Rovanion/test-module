@@ -2,11 +2,11 @@
   "name": "user-module",
   "version": "0.1.0",
   "author": "Rovanion Luckey",
-  "summary": "Yes",
-  "license": "GPLv3",
-  "source": "Yes",
-  "project_page": "",
-  "issues_url": "YEs",
+  "summary": "A test",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Rovanion/test-module",
+  "project_page": "https://github.com/Rovanion/test-module",
+  "issues_url": "https://github.com/Rovanion/test-module/issues",
   "dependencies": [
     {
       "name": "puppetlabs-stdlib",
